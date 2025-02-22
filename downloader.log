@@ -1,0 +1,20 @@
+2025-02-22 22:04:35,508 - INFO - ====== WebDriver manager ======
+2025-02-22 22:04:36,544 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:04:37,044 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:04:39,517 - INFO - There is no [win64] chromedriver "133.0.6943.126" for browser google-chrome "133.0.6943" in cache
+2025-02-22 22:04:39,518 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:04:50,098 - INFO - WebDriver version 133.0.6943.126 selected
+2025-02-22 22:04:50,104 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win32/chromedriver-win32.zip
+2025-02-22 22:04:50,104 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win32/chromedriver-win32.zip
+2025-02-22 22:04:50,759 - INFO - Driver downloading response is 200
+2025-02-22 22:11:12,046 - INFO - ====== WebDriver manager ======
+2025-02-22 22:11:13,024 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:11:17,443 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:11:26,909 - INFO - There is no [win64] chromedriver "133.0.6943.126" for browser google-chrome "133.0.6943" in cache
+2025-02-22 22:11:26,909 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:11:29,583 - INFO - WebDriver version 133.0.6943.126 selected
+2025-02-22 22:11:29,583 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win32/chromedriver-win32.zip
+2025-02-22 22:11:29,583 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/win32/chromedriver-win32.zip
+2025-02-22 22:11:31,621 - INFO - Driver downloading response is 200
+2025-02-22 22:11:38,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-22 22:11:51,710 - INFO - Driver has been saved in cache [C:\Users\mc158\.wdm\drivers\chromedriver\win64\133.0.6943.126]
